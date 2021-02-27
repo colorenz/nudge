@@ -105,14 +105,14 @@
         "_language": "de",
         "actionButtonText": "Gerät aktualisieren",
         "informationButtonText": "Mehr Informationen",
-        "mainContentHeader": "Ihr Gerät wird während dieses Updates neu gestartet",
+        "mainContentHeader": "Dein Gerät wird während dieses Updates neu gestartet",
         "mainContentNote": "Wichtige Hinweise",
         "mainContentSubHeader": "Aktualisierungen können ca. 30 Minuten dauern.",
-        "mainContentText": "Ein vollständig aktualisiertes Gerät ist erforderlich, um sicherzustellen, dass die IT-Abteilung Ihr Gerät effektiv schützen kann.\n\nWenn Sie Ihr Gerät nicht aktualisieren, verlieren Sie möglicherweise den Zugriff auf einige Werkzeuge, die Sie für Ihre täglichen Aufgaben benötigen.\n\nUm das Update zu starten, klicken Sie auf die Schaltfläche Gerät aktualisieren und befolgen Sie die angegebenen Schritte.",
-        "mainHeader": "Ihr Gerät benötigt ein Sicherheitsupdate",
+        "mainContentText": "Ein vollständig aktualisiertes Gerät ist erforderlich, um sicherzustellen, dass dein Gerät effektiv geschützen ist.\n\Um das Update zu starten, klicke  auf die Schaltfläche Gerät aktualisieren und befolge die angegebenen Schritte.",
+        "mainHeader": "Dein Gerät benötigt ein Sicherheitsupdate",
         "primaryQuitButtonText": "Später",
         "secondaryQuitButtonText": "Ich verstehe",
-        "subHeader": "Eine freundliche Erinnerung von Ihrem IT-Team"
+        "subHeader": "Eine freundliche Erinnerung von deinem IT-Team"
       }
     ]
   }
